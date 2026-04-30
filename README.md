@@ -3,13 +3,13 @@
 ## Dashboard Preview
 
 ### Executive Overview
-![Dashboard Preview](Saas Analysis - Executive Overview.jpg)
+![Dashboard Preview](executive-overview.jpg)
 
 ### Revenue & Customer Analytics
-![Revenue & Customer Analytics](saas-page2-revenue-customer.jpg)
+![Dashboard Preview](revenue-&-customer-analytics.jpg)
 
 ### Page 3 – Product Usage & Support Analytics
-![Product & Support Analytics](saas-page3-product-support.jpg)
+![Dashboard Preview](product-usage-&-support-analytics.jpg)
 
 This dashboard provides a comprehensive view of SaaS business performance, covering revenue growth, customer behavior, retention, and product engagement.
 
@@ -17,7 +17,7 @@ This dashboard provides a comprehensive view of SaaS business performance, cover
 
 ## Overview
 
-This project simulates a real-world SaaS analytics environment using multiple datasets including accounts, subscriptions, churn events, feature usage, and support tickets.
+This project analyze a SaaS business using multiple datasets including accounts, subscriptions, churn events, feature usage, and support tickets.
 
 The dashboard is designed to help stakeholders understand business performance, identify growth opportunities, and monitor key SaaS metrics.
 
