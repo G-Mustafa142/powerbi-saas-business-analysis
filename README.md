@@ -3,7 +3,7 @@
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Saas Analysis - Executive Overview.jpg)
+![Dashboard Preview](Saas Analysis - Executive Overview.jpg)
 
 ### Revenue & Customer Analytics
 ![Revenue & Customer Analytics](saas-page2-revenue-customer.jpg)
