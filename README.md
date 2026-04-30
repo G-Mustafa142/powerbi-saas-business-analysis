@@ -1,4 +1,5 @@
 # SaaS Business Analytics Dashboard (Power BI)
+End-to-end SaaS analytics dashboard built to analyze revenue growth, churn, retention, and product usage.
 
 ## Dashboard Preview
 
@@ -95,20 +96,21 @@ Relationships were designed to enable accurate filtering and time-based analysis
 
 ## Key Insights
 
-- Revenue growth is primarily driven by expansion and new customer acquisition  
-- Retention metrics highlight the importance of minimizing churn for sustainable growth  
-- Cohort analysis reveals how customer retention evolves over time  
-- Product usage patterns indicate which features drive engagement  
-- Support performance impacts overall customer experience and retention  
+- Revenue growth is driven primarily by expansion MRR and new customer acquisition, indicating strong upsell and onboarding performance  
+- Customer churn remains a critical factor impacting long-term revenue sustainability  
+- Cohort retention analysis shows a gradual decline in retained customers over time, highlighting the importance of early engagement strategies  
+- Higher-tier plans contribute disproportionately to total MRR, suggesting effective pricing segmentation  
+- Feature usage analysis reveals that a small number of features drive the majority of user engagement  
+- Support ticket trends and resolution times indicate areas where operational efficiency can improve customer experience  
 
 ---
 
 ## Business Impact
 
-This dashboard enables decision-makers to:
+This dashboard enables stakeholders to:
 
-- Track revenue performance and growth drivers  
-- Monitor customer retention and churn behavior  
-- Identify high-value customer segments  
-- Improve product adoption and feature strategy  
-- Optimize support operations and customer satisfaction  
+- Identify key drivers of revenue growth and expansion  
+- Detect churn patterns and take proactive retention actions  
+- Optimize pricing and plan strategies based on performance  
+- Improve product adoption by analyzing feature usage  
+- Enhance customer experience through support performance insights  
