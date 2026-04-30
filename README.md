@@ -8,7 +8,7 @@
 ### Revenue & Customer Analytics
 ![Dashboard Preview](revenue-&-customer-analytics.jpg)
 
-### Page 3 – Product Usage & Support Analytics
+### Product Usage & Support Analytics
 ![Dashboard Preview](product-usage-&-support-analytics.jpg)
 
 This dashboard provides a comprehensive view of SaaS business performance, covering revenue growth, customer behavior, retention, and product engagement.
